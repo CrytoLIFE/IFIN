@@ -98,9 +98,9 @@ contract IFIN is ERC20Interface, Owned, SafeMath {
         symbol = "IFIN";
         name = "IFIN LIVE";
         decimals = 18;
-        _totalSupply = 256000000000000000000000000;
-        balances[0xD133cc957d41C0cd62ed6175155B2E54F951eA79] = _totalSupply;
-        Transfer(address(0), 0xD133cc957d41C0cd62ed6175155B2E54F951eA79, _totalSupply);
+        _totalSupply = ;
+        balances[] = _totalSupply;
+        Transfer(address(0), , _totalSupply);
     }
 
 
