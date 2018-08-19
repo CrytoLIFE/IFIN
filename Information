@@ -1,0 +1,28 @@
+{
+  "symbol": "Token symbol",
+  "address": "0xE09f4AB8013A4453d33dD9AeCd260bB46E558767",
+  "overview":{
+        "en": "Token Description.",
+        "th": ""
+  },
+  "email": "",
+  "website": "",
+  "whitepaper": "",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-08-12",
+  "initial_price":{
+        "ETH":"0.00004 ETH",
+        "USD":"0.02 USD",
+        "BTC":"0.000002 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
